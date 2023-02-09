@@ -48,7 +48,6 @@
 /* top  */
 .main-section {
   width: 100%;
-  height: 900px;
 }
 
 .main-top-part {
@@ -141,4 +140,66 @@
   font-weight: 600;
   font-size: 20px;
   cursor: pointer;
+}
+
+/* styling footer  */
+.footer-part-style {
+  width: 100%;
+  height: 60vh;
+  background-color: black;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.gray {
+  color: #FFFFFF;
+}
+
+.footer-title {
+  color: #F8F8F8;
+  font-weight: 700;
+  font-size: 45px;
+  margin-bottom: 15px;
+}
+
+.footer-articals {
+  font-weight: 400;
+  font-size: 16px;
+  margin-bottom: 15px;
+}
+
+.email-id {
+  font-weight: 400;
+  font-size: 16px;
+  margin-bottom: 15px;
+}
+
+.phone-no {
+  font-weight: 400;
+  font-size: 16px;
+  margin-bottom: 15px;
+}
+
+.footer-right-heading {
+  color: #FFFFFF;
+  margin-bottom: 30px;
+  font-weight: 600;
+  font-size: 25px;
+}
+
+.email-field {
+  margin-bottom: 15px;
+  padding: 10px 33px;
+}
+
+.footer-right-button {
+  padding: 10px;
+  background-color: #005FAC;
+  font-size: 18px;
+  font-weight: 600;
+  border-radius: 5px;
+  border: 0;
+  cursor: pointer;
+  color: #FFFFFF;
 }
