@@ -109,3 +109,36 @@
   color: #737272;
   text-align: center;
 }
+
+/* footer  */
+.footer-image {
+  padding: 150px;
+}
+
+.footer-details {
+  background-image: url('../images/watch.png');
+  height: 250px;
+  border-radius: 10px;
+  align-items: center;
+  display: flex;
+}
+
+.footer-description {
+  margin-left: 65px;
+}
+
+.footer-heading {
+  font-weight: 700;
+  font-size: 40px;
+  color: #FFFFFF;
+  margin-bottom: 20px;
+}
+
+.footer-button {
+  padding: 15px 35px;
+  color: #005FAC;
+  /* text-align: center; */
+  font-weight: 600;
+  font-size: 20px;
+  cursor: pointer;
+}
